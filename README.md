@@ -84,3 +84,7 @@ plt.show()
 
 ## **RESULT**
 Thus, a simple python program is excuted to modulate and demodulated the pulse signal .
+
+## **Hardware Experiment- Output Graph**
+![WhatsApp Image 2025-05-01 at 22 43 36_2b154f96](https://github.com/user-attachments/assets/1336c13b-e617-4313-b491-5e907046b263)
+
